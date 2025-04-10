@@ -65,17 +65,6 @@ Diagrama:
 
 ---
 
-## 📸 Capturas de pantalla (Agrega tus imágenes aquí)
 
-1. **Inicio del juego**  
-   _Formulario donde el jugador selecciona categoría y nivel._
-
-2. **Juego en acción**  
-   _Pregunta actual, tiempo corriendo y respuestas disponibles._
-
-3. **Pantalla final**  
-   _Muestra resumen con puntaje y botones para reiniciar._
-
----
 
 
