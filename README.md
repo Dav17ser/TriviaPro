@@ -30,7 +30,7 @@
 
 ---
 
-### ✅ 3. Pantalla de Resumen (FormResumen)
+### 3. Pantalla de Resumen (FormResumen)
 - Muestra puntaje final.
 - Número de respuestas correctas e incorrectas.
 - Permite reiniciar la partida o cerrar.
