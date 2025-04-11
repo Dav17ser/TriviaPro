@@ -24,6 +24,9 @@ namespace TriviaPro
             cmbCategoria.Items.AddRange(new string[] { "Ciencia", "Historia", "Deportes" });
             cmbNivel.Items.AddRange(new string[] { "Fácil", "Media", "Difícil" });
 
+            cmbCategoria.SelectedIndex(0, "");
+            cmbNivel.SelectedIndex(0, "");
+            
             cmbCategoria.SelectedIndex = 0;
             cmbNivel.SelectedIndex = 0;
         }
